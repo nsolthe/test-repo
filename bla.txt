@@ -3,3 +3,7 @@ bla txt
 hier soll nichts gescheites drin 
 hier ein paar Zeilen geändert wurden.
 Und später soll dann auch mal was gelöscht werden.
+
+
+Das hier sollte ein Test sein.
+Das repo auf github sollte zuerst aktualisiert werden.
